@@ -1,2 +1,2 @@
 # CNN-Test
-CNN test with Tensorflow
+CNN test with TensorFlow
